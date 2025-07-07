@@ -58,4 +58,7 @@ Install with:
 Maintained by BHUVANESHWARAN R — a data engineer on a journey to data science. These notebooks support my Medium blog series:
 
   ➡️ Medium Blog Post #1: My Journey from Structuring Data to Learning Models
+        https://medium.com/@Bhuvaneshwaran_16/my-journey-from-structuring-data-to-learning-models-ef9ae1c315fb
+  
   ➡️ Medium Blog Post #2: A Practical pandas Guide for Data Engineers & Data Scientists
+        https://medium.com/@Bhuvaneshwaran_16/a-practical-pandas-guide-for-data-engineers-and-data-scientists-73928643f6e4
